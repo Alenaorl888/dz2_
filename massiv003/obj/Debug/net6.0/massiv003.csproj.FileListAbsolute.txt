@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\массив\massiv\massiv003\bin\Debug\net6.0\massiv003.exe
+C:\Users\asus\Desktop\массив\massiv\massiv003\bin\Debug\net6.0\massiv003.deps.json
+C:\Users\asus\Desktop\массив\massiv\massiv003\bin\Debug\net6.0\massiv003.runtimeconfig.json
+C:\Users\asus\Desktop\массив\massiv\massiv003\bin\Debug\net6.0\massiv003.dll
+C:\Users\asus\Desktop\массив\massiv\massiv003\bin\Debug\net6.0\massiv003.pdb
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.AssemblyInfo.cs
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.dll
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\refint\massiv003.dll
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.pdb
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\massiv003.genruntimeconfig.cache
+C:\Users\asus\Desktop\массив\massiv\massiv003\obj\Debug\net6.0\ref\massiv003.dll
